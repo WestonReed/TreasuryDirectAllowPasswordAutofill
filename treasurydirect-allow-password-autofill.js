@@ -7,8 +7,8 @@
 // @match        https://www.treasurydirect.gov/RS/PW-Display.do*
 // @icon         https://www.google.com/s2/favicons?domain=treasurydirect.gov
 // @grant        none
-// @downloadURL  https://github.com/WestonReed/TreasuryDirectAllowPasswordAutofill/blob/main/treasurydirect-allow-password-autofill.js
-// @updateURL    https://github.com/WestonReed/TreasuryDirectAllowPasswordAutofill/blob/main/treasurydirect-allow-password-autofill.js
+// @downloadURL  https://raw.githubusercontent.com/WestonReed/TreasuryDirectAllowPasswordAutofill/main/treasurydirect-allow-password-autofill.js
+// @updateURL    https://raw.githubusercontent.com/WestonReed/TreasuryDirectAllowPasswordAutofill/main/treasurydirect-allow-password-autofill.js
 // ==/UserScript==
 
 (function() {
